@@ -1,0 +1,26 @@
+@charset "utf-8";
+body{
+    background-image: url("images/background.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 103%;
+}
+.main{
+    font-size: 30px;
+}
+h1{
+    margin: 0px;
+}
+a{
+    padding-right: 10px;
+    font-size: 30px;
+    color: darkblue;
+    border:black;
+    background-color: cornsilk;
+    border-style: solid;
+    margin-bottom: 30px;
+
+}
+audio{
+    margin-top: 220px;
+}

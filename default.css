@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+h1{
+	font-size: 50px;
+	background-color: aquamarine;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: center;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	opacity: 0.7;
+	color: blueviolet;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+img
+{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+body
+{
+	background-image: url("images/background.jpg");
+	background-position: center;
+	background-attachment: fixed;
+}
+h2
+{
+	font-size: 40px;
+	margin-bottom: -10px;
+}
+li
+{
+	font-size: 30px;
+}
