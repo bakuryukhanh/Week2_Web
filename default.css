@@ -33,3 +33,26 @@ li
 {
 	font-size: 30px;
 }
+.body05{
+    background-image: url("members/18120405/images/background.jpg");
+	background-size: 103%;
+}
+.main05{
+    font-size: 30px;
+}
+.a05{
+    padding-right: 10px;
+    font-size: 30px;
+    color: darkblue;
+    border:black;
+    background-color: cornsilk;
+    border-style: solid;
+    margin-bottom: 30px;
+
+}
+.audio05{
+    margin-top: 220px;
+}
+h1{
+    margin: 0px;
+}
